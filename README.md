@@ -133,8 +133,9 @@ Some problems may have multiple valid solutions.
 If you are also learning DSA and want to collaborate or discuss problems, feel free to connect.
 
 
-gmail- moanrchdev14@gmail.com
+gmail- rishabhchoudhary70678@gmail.com
 
-linkedin-www.linkedin.com/in/monarch-dev-47b676327
+
+linkedin-[www.linkedin.com/in/monarch-dev-47b676327](https://www.linkedin.com/in/rishabh-choudhary-16624732a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 Happy Coding 🚀
